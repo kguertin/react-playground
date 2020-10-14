@@ -34,7 +34,6 @@ const config = {
         console.log('Error creating user', err);
       }
     }
-    
     return userRef;
   }
 
