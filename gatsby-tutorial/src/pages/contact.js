@@ -8,10 +8,10 @@ const ContactPage = () => {
       <h1>Contact</h1>
       <p>Here is my contact information</p>
       <p>
-        Follow me on{" "}
+        Follow me on
         <a href="https://twitter.com" target="_blank">
           twitter
-        </a>{" "}
+        </a>
       </p>
     </Layout>
   )
