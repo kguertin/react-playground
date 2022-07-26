@@ -24,11 +24,11 @@ const styles = StyleSheet.create({
   textTwoStyle: {
     borderWidth: 3,
     borderColor: "red",
+    ...StyleSheet.absoluteFillObject,
   },
   textThreeStyle: {
     borderWidth: 3,
     borderColor: "red",
-    alignSelf: "center",
   },
 });
 
